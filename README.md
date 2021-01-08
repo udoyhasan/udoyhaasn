@@ -88,3 +88,7 @@
 [instagram]: https://instagram.com/udoyhasanorko
 [linkedin]: https://linkedin.com/in/udoyhasan
 [null-link]: #
+
+---
+
+<img aligh="left" alt="udoyhasan's github stats" src="https://github-readme-stats.vercel.app/api?username=udoyhasan">
