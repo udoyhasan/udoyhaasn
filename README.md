@@ -81,6 +81,11 @@
 - [What is .env file and how to use .env file in php](https://rootlearner.com/@udoyhasan/what-is-env-file-and-how-to-use-env-file-in-php/)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+<img aligh="left" alt="udoyhasan's github stats" src="https://github-readme-stats.vercel.app/api?username=udoyhasan">
+
+
 [website]: https://udoyhasan.com
 [facebook]: https://facebook.com/programmerudoyhasan
 [twitter]: https://twitter.com/udoyhasanorko
@@ -88,7 +93,3 @@
 [instagram]: https://instagram.com/udoyhasanorko
 [linkedin]: https://linkedin.com/in/udoyhasan
 [null-link]: #
-
----
-
-<img aligh="left" alt="udoyhasan's github stats" src="https://github-readme-stats.vercel.app/api?username=udoyhasan">
