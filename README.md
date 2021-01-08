@@ -27,6 +27,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="HTML5" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/html.png" />][null-link]
+[<img align="left" alt="Mark Down" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/md.png" />][null-link]
 [<img align="left" alt="CSS3" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/css.png" />][null-link]
 [<img align="left" alt="Sass" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/sass.png" />][null-link]
 [<img align="left" alt="Less" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/less.png" />][null-link]
@@ -40,6 +41,7 @@
 [<img align="left" alt="MongoDB" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/mongodb.png" />][null-link]
 [<img align="left" alt="Sql lite" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/sqllite.png" />][null-link]
 [<img align="left" alt="PHP" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/php.png" />][null-link]
+[<img align="left" alt="WordPress" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/wp.png" />][null-link]
 [<img align="left" alt="laravel" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/laravel.png" />][null-link]
 [<img align="left" alt="Python" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/py.png" />][null-link]
 [<img align="left" alt="Django" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/django.png" />][null-link]
@@ -55,14 +57,21 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+
+---
+
+### 📺 Latest Youtube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 ---
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the composer and how to install and use it?](https://rootlearner.com/@udoyhasan/what-is-the-composer-and-how-to-install-and-use-it/)
-- [What is .env file and how to use .env file in php](https://rootlearner.com/@udoyhasan/what-is-env-file-and-how-to-use-env-file-in-php/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://udoyhasan.com
