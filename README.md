@@ -52,8 +52,16 @@
 [<img align="left" alt="Terminal" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/terminal.png" />][null-link]
 [<img align="left" alt="VS Code" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/vscode.png" />][null-link]
 [<img align="left" alt="git" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/git.png" />][null-link]
-<br />
-<br />
+
+<br/>
+<br/>
+
+---
+
+# 📕 Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [website]: https://udoyhasan.com
 [facebook]: https://facebook.com/programmerudoyhasan
