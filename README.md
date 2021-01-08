@@ -83,7 +83,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [What is the composer and how to install and use it?](https://rootlearner.com/@udoyhasan/what-is-the-composer-and-how-to-install-and-use-it/)
-- [What is .env file and how to use .env file in php](https://rootlearner.com/@udoyhasan/what-is-env-file-and-how-to-use-env-file-in-php/)
+- [What is an env file and how to use an env file in PHP?](https://rootlearner.com/@udoyhasan/what-is-env-file-and-how-to-use-env-file-in-php/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
