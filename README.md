@@ -15,12 +15,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="udoyhasan.com" height="32px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/social/web.png" />][website]
-[<img align="left" alt="udoyhasan | Facebook" height="32px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/social/facebook.png" />][facebook]
-[<img align="left" alt="udoyhasan | YouTube" height="32px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/social/youtube.png" />][youtube]
-[<img align="left" alt="udoyhasan | Twitter" height="32px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/social/twitter.png" />][twitter]
-[<img align="left" alt="udoyhasan | LinkedIn" height="32px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/social/linkedin.png" />][linkedin]
-[<img align="left" alt="udoyhasan | Instagram" height="32px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/social/instagram.png" />][instagram]
+[<img align="left" alt="udoyhasan.com" height="25px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/social/web.png" />][website]
+[<img align="left" alt="udoyhasan | Facebook" height="25px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/social/facebook.png" />][facebook]
+[<img align="left" alt="udoyhasan | YouTube" height="25px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/social/youtube.png" />][youtube]
+[<img align="left" alt="udoyhasan | Twitter" height="25px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/social/twitter.png" />][twitter]
+[<img align="left" alt="udoyhasan | LinkedIn" height="25px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/social/linkedin.png" />][linkedin]
+[<img align="left" alt="udoyhasan | Instagram" height="25px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/social/instagram.png" />][instagram]
 
 <br />
 
