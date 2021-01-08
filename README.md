@@ -8,15 +8,19 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
+- 👨‍🎓 I'm currently reading in class 11
+- 😋 I'm single and never was in a relationship
+- ‍💻 I'm with programming for 4 years
 - ⚡ Fun fact: I don't love playing any games
 
 ### Connect with me:
 
-[<img align="left" alt="udoyhasan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="udoyhasan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="udoyhasan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="udoyhasan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="udoyhasan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="udoyhasan.com" height="32px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/social/web.png" />][website]
+[<img align="left" alt="udoyhasan | Facebook" height="32px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/social/facebook.png" />][facebook]
+[<img align="left" alt="udoyhasan | YouTube" height="32px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/social/youtube.png" />][youtube]
+[<img align="left" alt="udoyhasan | Twitter" height="32px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/social/twitter.png" />][twitter]
+[<img align="left" alt="udoyhasan | LinkedIn" height="32px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/social/linkedin.png" />][linkedin]
+[<img align="left" alt="udoyhasan | Instagram" height="32px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/social/instagram.png" />][instagram]
 
 <br />
 
@@ -52,6 +56,7 @@
 <br />
 
 [website]: https://udoyhasan.com
+[facebook]: https://facebook.com/programmerudoyhasan
 [twitter]: https://twitter.com/udoyhasanorko
 [youtube]: https://www.youtube.com/channel/UC_o3M0a79cMucJjaNlalnqQ
 [instagram]: https://instagram.com/udoyhasanorko
