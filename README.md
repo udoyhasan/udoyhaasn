@@ -70,10 +70,10 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [How a WordPress website works? Softisia's live course WordPress Basic tutorial part 4](https://www.youtube.com/watch?v=_mO1BOzObNY)
-- [What are needed to run a WordPress Site? Softisia's live course WordPress Basic tutorial part 3](https://www.youtube.com/watch?v=NpGRGnAKjsA)
-- [Why should we learn WordPress? Softisia's live course WordPress Basic tutorial part 2](https://www.youtube.com/watch?v=5jOTQmx-b8U)
-- [What is WordPress? Softisia's live course WordPress Basic tutorial part 1](https://www.youtube.com/watch?v=xr4Wihz_tv0)
+- [How a WordPress website works? Softisia&#39;s live course WordPress Basic tutorial part 4](https://www.youtube.com/watch?v=_mO1BOzObNY)
+- [What are needed to run a WordPress Site? Softisia&#39;s live course WordPress Basic tutorial part 3](https://www.youtube.com/watch?v=NpGRGnAKjsA)
+- [Why should we learn WordPress? Softisia&#39;s live course WordPress Basic tutorial part 2](https://www.youtube.com/watch?v=5jOTQmx-b8U)
+- [What is WordPress? Softisia&#39;s live course WordPress Basic tutorial part 1](https://www.youtube.com/watch?v=xr4Wihz_tv0)
 - [How to get free hosting with domain | 100% FREE | **New tricks**](https://www.youtube.com/watch?v=9IJ4qDq31kM)
 <!-- YOUTUBE:END -->
 
