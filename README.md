@@ -24,9 +24,38 @@
 
 <br />
 
-### Languages and Tools:
+## My Skills
+✓ Frontend Development:
+HTML, XML, JSON, CSS, Bootstrap, TailWind, SASS/SCSS, less, JS, jQuery, AJAX, Vanilla JS, React JS, Vue JS, TypeScript, Nuxt JS, Next JS, Rest API, GraphQL API, etc.
 
-[<img align="left" alt="HTML5" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/html.png" />][null-link]
+✓ Backend Development:
+PHP (Both Raw & Object-oriented), Lararavel, Codeigniter, Symfony, Python (Both Raw & Object-oriented), Django, Laravel, etc.
+
+✓ Database Management:
+MySQL, MariaDB, MongoDB, NoSQL, SQLite/SQLite3, Microsoft SQL Server, etc.
+
+✓ CMS Development:
+WordPress, Magento, OpenCart, Shopify, Joomla, Durpal, WHMCS, Strapi, Directus, GraphCMS, Flarum, phpBB, MyBB, GitLab, etc
+Note: I also know the theme & plugin creation for all cms and also provide migration service.
+
+✓ Server Administrator:
+Linux Server(Any Linux OS), Windows Server, Apache2, httpd, Ngnix, LiteSpeed, Open LiteSpeed, Postfix, Dovecot, ClamAV, CloudLinux, RoundCube, Squirrelmail, iRedmail, Webserver Installation/Fixing, Mail Server installation/Fixing, Proxy Server setup, VPN Server setup, SSH Setup, RDP Setup, FTP Server Setup, Broadcasting Server installation/Fixing, cPanel/ WHM/ DirectAdmin/ VestaCP/ HestiaCP/ Cyber Panel, etc web control panel installation and fixing, Any backend website/application deployment, Any frontend website/application deployment, Any Database deployment and fixing, Any database admin panel (phpMyAdmin, pgAdmin, etc.) deployment, SSL installation, Free SSL generation, Auto SSL renew setup, Any script installation on the server, Server network configuration, Server Remote Access configuration, Server speed optimization, etc.
+
+✓ Cyber Security:
+Ethical Hat Hacking, Penetration Test, Server vulnerability analysis, XSS protection, CSRF Protection, Malware, and Virus Removal, SQL Injection protection, Lost Data Recovery, Lost account recovery, Server security tightening, Data Finding, DOS/DDOS protection, etc.
+Note: You must have permission to the server and resources.
+
+✓ Cloud Console Management:
+Amazon Web Services(AWS), Google Cloud, Alibaba Cloud, IBM Cloud, Oracle Cloud, etc.
+Note: I'm familiar with all the services of these cloud providers.
+
+✓ Extra Knowledge:
+SEO, Website speed improvement, Image optimization, CDN Configuration & Setup, Alexa rank indexing, Search engine indexing, etc.
+
+
+<!-- ### Languages and Tools: -->
+
+<!-- [<img align="left" alt="HTML5" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/html.png" />][null-link]
 [<img align="left" alt="Mark Down" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/md.png" />][null-link]
 [<img align="left" alt="CSS3" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/css.png" />][null-link]
 [<img align="left" alt="Sass" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/sass.png" />][null-link]
@@ -53,7 +82,8 @@
 [<img align="left" alt="Android" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/android.png" />][null-link]
 [<img align="left" alt="Terminal" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/terminal.png" />][null-link]
 [<img align="left" alt="VS Code" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/vscode.png" />][null-link]
-[<img align="left" alt="git" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/git.png" />][null-link]
+[<img align="left" alt="git" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/git.png" />][null-link] -->
+<!-- <br/>
 <br/>
 <br/>
 <br/>
@@ -62,8 +92,7 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+<br/> -->
 
 ---
 
