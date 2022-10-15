@@ -1,7 +1,7 @@
 ### Hi there, I'm Md Udoy Hasan Orko - aka [udoyhasan][website] 👋
 
 [![Website](https://img.shields.io/website?label=udoyhasan.com&style=for-the-badge&url=https%3A%2F%2Fudoyhasan.com)](https://udoyhasan.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/udoyhasanorko?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fudoyhasan&screen_name=udoyhasanorko)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/udoyhasanorko?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fudoyhasan&screen_name=udoyhasanorko) -->
 
 ## I'm a Son, Student, Developer, and Programmer!!
 
