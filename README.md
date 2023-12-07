@@ -118,9 +118,10 @@ SEO, Website speed improvement, Image optimization, CDN Configuration and setup,
 ---
 
 <!--img aligh="left" alt="udoyhasan's github stats" src="https://github-readme-stats.vercel.app/api?username=udoyhasan"-->
-![udoyhasan's Stats](https://github-readme-stats.vercel.app/api?username=udoyhasan&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![udoyhasan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=udoyhasan&theme=dracula&hide_border=true)
-![udoyhasan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udoyhasan&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+<div style="display:flex; max-width:100%;">
+<img aligh="" alt="udoyhasan's github stats" src="https://github-readme-stats.vercel.app/api?username=udoyhasan&theme=dracula&show_icons=true&hide_border=true&count_private=true">
+<img aligh="" alt="udoyhasan's github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=udoyhasan&theme=dracula&hide_border=true">
+</div>
 
 [website]: https://udoyhasan.com
 [facebook]: https://facebook.com/programmerudoyhasan
