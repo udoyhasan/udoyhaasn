@@ -118,7 +118,7 @@ SEO, Website speed improvement, Image optimization, CDN Configuration and setup,
 ---
 
 <!--img aligh="left" alt="udoyhasan's github stats" src="https://github-readme-stats.vercel.app/api?username=udoyhasan"-->
-<div style="display:grid;justify-items:center; align-items:center; max-width:100%;">
+<div style="display:grid;justify-items:center; max-width:100%;">
 <img aligh="" alt="udoyhasan's github stats" src="https://github-readme-stats.vercel.app/api?username=udoyhasan&theme=dracula&show_icons=true&hide_border=true&count_private=true">
 <img aligh="" alt="udoyhasan's github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=udoyhasan&theme=dracula&hide_border=true">
 </div>
