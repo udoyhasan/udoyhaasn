@@ -3,15 +3,15 @@
 [![Website](https://img.shields.io/website?label=udoyhasan.com&style=for-the-badge&url=https%3A%2F%2Fudoyhasan.com)](https://udoyhasan.com)
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/udoyhasanorko?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fudoyhasan&screen_name=udoyhasanorko) -->
 
-## I'm a Son, Student, Developer, and Programmer!!
+## I'm a full-stack web and mobile app developer, server administrator & cyber security specialist.
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently creating some new SaaS platform.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 👨‍🎓 I'm currently reading in class 11
-- 😋 I'm single and never was in a relationship
-- ‍💻 I'm with programming for 4 years
-- ⚡ Fun fact: I don't love playing any games
+- 🥅 2024 Goals: Make my SaaS platforms successful.
+- 👨‍🎓 I'm currently studying BSc in Mechatronics Engineering at RUET
+- 😋 I'm single and have never been in a relationship
+- ‍💻 I have an experience of 7years.
+- ⚡ Fun fact: I don't love playing any games but I love making them.
 
 ### Connect with me:
 
@@ -26,17 +26,17 @@
 
 ## My Skills
 ✓ Frontend Development:
-HTML, XML, JSON, CSS, Bootstrap, TailWind, SASS/SCSS, less, JS, jQuery, AJAX, Vanilla JS, React JS, Vue JS, TypeScript, Nuxt JS, Next JS, Rest API, GraphQL API, etc.
+HTML, XML, JSON, CSS, Bootstrap, TailWind, SASS/SCSS, less, JavaScript, jQuery, AJAX, Vanilla JS, React JS, Vue JS, TypeScript, Nuxt JS, Next JS, Rest API, GraphQL API, etc.
 
 ✓ Backend Development:
-PHP (Both Raw & Object-oriented), Lararavel, Codeigniter, Symfony, Python (Both Raw & Object-oriented), Django, Laravel, etc.
+PHP (Both Raw and object-oriented), Lararavel, Codeigniter, Symfony, Python (Both Raw and object-oriented), Django, Laravel, Flask, NodeJS, ExpressJS, NestJS, etc.
 
 ✓ Database Management:
-MySQL, MariaDB, MongoDB, NoSQL, SQLite/SQLite3, Microsoft SQL Server, etc.
+MySQL, MariaDB, MongoDB, NoSQL, SQLite/SQLite3, InfluxDB, Microsoft SQL Server, etc.
 
 ✓ CMS Development:
-WordPress, Magento, OpenCart, Shopify, Joomla, Durpal, WHMCS, Strapi, Directus, GraphCMS, Flarum, phpBB, MyBB, GitLab, etc
-Note: I also know the theme & plugin creation for all cms and also provide migration service.
+WordPress, Magento, OpenCart, Shopify, Joomla, Drupal, WHMCS, Strapi, Directus, GraphCMS, Flarum, phpBB, MyBB, GitLab, and many more.
+Note: I also know the theme & plugin creation for all CMS and also provide migration services.
 
 ✓ Server Administrator:
 Linux Server(Any Linux OS), Windows Server, Apache2, httpd, Ngnix, LiteSpeed, Open LiteSpeed, Postfix, Dovecot, ClamAV, CloudLinux, RoundCube, Squirrelmail, iRedmail, Webserver Installation/Fixing, Mail Server installation/Fixing, Proxy Server setup, VPN Server setup, SSH Setup, RDP Setup, FTP Server Setup, Broadcasting Server installation/Fixing, cPanel/ WHM/ DirectAdmin/ VestaCP/ HestiaCP/ Cyber Panel, etc web control panel installation and fixing, Any backend website/application deployment, Any frontend website/application deployment, Any Database deployment and fixing, Any database admin panel (phpMyAdmin, pgAdmin, etc.) deployment, SSL installation, Free SSL generation, Auto SSL renew setup, Any script installation on the server, Server network configuration, Server Remote Access configuration, Server speed optimization, etc.
@@ -50,7 +50,7 @@ Amazon Web Services(AWS), Google Cloud, Alibaba Cloud, IBM Cloud, Oracle Cloud, 
 Note: I'm familiar with all the services of these cloud providers.
 
 ✓ Extra Knowledge:
-SEO, Website speed improvement, Image optimization, CDN Configuration & Setup, Alexa rank indexing, Search engine indexing, etc.
+SEO, Website speed improvement, Image optimization, CDN Configuration and setup, Alexa rank indexing, Search engine indexing, etc.
 
 
 <!-- ### Languages and Tools: -->
